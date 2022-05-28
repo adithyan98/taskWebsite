@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Lobster&family=Pacifico&display=swap');.bgimg{
+    margin-top: -9px;
+    background-image: url("https://www.oryxvillage.com/assets/images/background/bg-top1.png");
+    background-repeat: repeat-x;
+    background-size: auto;
+    height: 150px;
+}
+.tNav{
+    background-color: #e10505;
+}
+/* navbar style */
+.mNav{
+    /* margin-top: 10px; */
+    font-weight: 500;
+    font-family: 'Great Vibes', cursive;
+}
+h2{
+    font-family: 'Pacifico', cursive;
+    /* font-size: 40px; */
+}
+h1{
+    /* font-size: 50px; */
+    color: red;
+    font-family: 'Great Vibes', cursive;
+
+}
+/* p{
+    font-size: 30px;
+} */
+h3{
+    font-family: 'Pacifico', cursive;
+    color: black;
+    
+}
+
+.special{
+    background-color: white;
+}
+.rounded:hover{
+    transform: scale(1.2)
+}
+table{
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+}
+td,th{
+    color: rgb(201, 159, 159);
+}
+.footer{
+    background-color: black;
+    color: rgb(218, 176, 96);
+}
